@@ -1,0 +1,16 @@
+{
+  "name": "Scanner Voucher BBC Karawang",
+  "short_name": "BBC Scanner",
+  "start_url": "./scan_voucherv2_2.html",
+  "display": "standalone",
+  "background_color": "#f4f4f9",
+  "theme_color": "#b71c1c",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='100' fill='%23b71c1c'/%3E%3Cpath fill='%23ffffff' d='M120 120h100v100H120zm25 25v50h50v-50zm147-25h100v100H292zm25 25v50h50v-50zM120 292h100v100H120zm25 25v50h50v-50zm147-25h40v40h-40zm60 0h40v40h-40zm-60 60h40v40h-40zm60 0h40v40h-40z'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
