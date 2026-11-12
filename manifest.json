@@ -1,7 +1,7 @@
 {
   "name": "Scanner Voucher BBC Karawang",
   "short_name": "BBC Scanner",
-  "start_url": "./scan_voucherv2_2.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f4f4f9",
   "theme_color": "#b71c1c",
